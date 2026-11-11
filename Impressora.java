@@ -132,3 +132,5 @@ public class Impressora {
         }
     }
 }
+
+//corrigindo o commit
